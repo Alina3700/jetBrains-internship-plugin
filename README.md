@@ -1,2 +1,2 @@
-# jetBrains-internship-plugin
+# Plugin for IntelliJ-based IDE
 JetBrains Internship Test Task
